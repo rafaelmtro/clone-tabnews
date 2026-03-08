@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "MIT",
-  "description": "",
+  "description": "Implementation of https://www.tabnews.com.br on https://www.curso.dev",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
