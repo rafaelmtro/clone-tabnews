@@ -4,8 +4,8 @@ This project is an implementation of [TabNews](https://www.tabnews.com.br), deve
 
 ## Project Overview
 
-- **Technologies:** Next.js (v13), React, Prettier.
-- **Architecture:** Standard Next.js project using the `pages` directory for routing.
+- **Technologies:** Next.js (v13), React, `Prettier`.
+- **Architecture:** Standard Next.js project using the `pages/` directory for routing.
 - **Purpose:** A clone/implementation of TabNews for educational purposes.
 
 ## Building and Running
@@ -26,7 +26,7 @@ The project uses `npm` for task management.
   # Fix formatting
   npm run lint:fix
   ```
-  Uses Prettier to ensure consistent code style.
+  Uses `Prettier` to ensure consistent code style.
 
 ## Development Conventions
 
@@ -34,7 +34,7 @@ The project uses `npm` for task management.
   - Indentation: 2 spaces (as specified in `.zed/settings.json`).
   - Formatting: Managed by `Prettier`.
 - **Components:** React functional components are used (see `pages/index.js`).
-- **Routing:** File-system based routing via the `pages` directory.
+- **Routing:** File-system based routing via the `pages/` directory.
 
 ## Key Files and Directories
 
