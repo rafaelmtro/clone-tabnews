@@ -13,12 +13,15 @@ This project is an implementation of [TabNews](https://www.tabnews.com.br), deve
 The project uses `npm` for task management.
 
 - **Development:**
+
   ```bash
   npm run dev
   ```
+
   Starts the Next.js development server.
 
 - **Linting & Formatting:**
+
   ```bash
   # Check formatting
   npm run lint:check
@@ -26,11 +29,12 @@ The project uses `npm` for task management.
   # Fix formatting
   npm run lint:fix
   ```
+
   Uses `Prettier` to ensure consistent code style.
 
 ## Development Conventions
 
-- **Code Style:** 
+- **Code Style:**
   - Indentation: 2 spaces (as specified in `.zed/settings.json`).
   - Formatting: Managed by `Prettier`.
 - **Components:** React functional components are used (see `pages/index.js`).
