@@ -27,3 +27,5 @@ yarn-error.log*
 .swc/
 
 GEMINI.md
+
+.zed/
